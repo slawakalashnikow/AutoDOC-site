@@ -739,9 +739,12 @@ footer{
 
 }
 
-.footer-card h4{
+.footer-card {
 
     background-color: #fff;
+
+}
+.footer-card h4{
 
     margin-bottom:14px;
 
