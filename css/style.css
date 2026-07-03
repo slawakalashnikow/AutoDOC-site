@@ -268,9 +268,7 @@ header{
 
 .hero{
 
-    min-height:
-
-    calc(100vh - 60px);
+    min-height: 50vh;
 
     display:flex;
 
@@ -290,7 +288,7 @@ header{
 
 .hero-right{
 
-    flex:1;
+    flex:1.5;
 
 }
 
