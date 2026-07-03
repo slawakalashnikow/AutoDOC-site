@@ -41,7 +41,7 @@ html{
 body{
 
     font-family:
-    Inter,
+    'Jura',
     Arial,
     sans-serif;
 
@@ -755,6 +755,14 @@ footer{
 
     border-radius: 12px;
 
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    text-align:center;
+
 }
 .footer-card h4{
 
@@ -778,9 +786,17 @@ footer{
 
     display:flex;
 
+    justify-content:center;
+
+    align-items:center;
+
     gap:12px;
 
     margin-top:10px;
+
+    width:100%;
+
+    flex-wrap:wrap;
 
 }
 
@@ -911,6 +927,18 @@ button,
 .review-card{
 
     transition:all .25s ease;
+
+}
+
+.service-card,
+.portfolio-card,
+.review-card,
+.service-card h3,
+.portfolio-card p,
+.review-card h3,
+.review-card p{
+
+    font-family:Inter, Arial, sans-serif;
 
 }
 
