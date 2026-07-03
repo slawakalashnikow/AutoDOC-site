@@ -716,7 +716,7 @@ footer{
 
     background:var(--dark);
 
-    color:white;
+    color:rgb(0, 0, 0);
 
     margin-top:60px;
 
@@ -811,7 +811,7 @@ footer{
 
     border-top:1px solid rgba(255,255,255,.1);
 
-    padding-top:20px;
+    padding-top:30px;
 
     font-size:14px;
 
